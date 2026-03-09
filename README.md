@@ -1,7 +1,7 @@
 <!-- Banner -->
 <!-- <img src="YOUR_BANNER_IMAGE_LINK" alt="Banner" width="100%"> -->
 
-<h1 align="center">Hi there, I'm Your Name 👋</h1>
+<h1 align="center">Hi there, I'm Ifteqhar 👋</h1>
 
 <!-- Typing Animation -->
 <p align="center">
