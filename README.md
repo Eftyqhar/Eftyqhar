@@ -61,20 +61,20 @@ mindset: "Always learning, never stopping"
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Iftakhar-822561&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Iftakhar-822561&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=eftyqhar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eftyqhar&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
 
 </div>
 
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Iftakhar-822561&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=eftyqhar&theme=tokyonight&hide_border=true)
 
 </div>
 
 ---
 
-## 🎯 Goals for 2025
+## 🎯 Goals for 2026
 
 - [ ] 🤖 Build a complete ML project end-to-end
 - [ ] 🔌 Create a smart IoT device from scratch
@@ -88,7 +88,9 @@ mindset: "Always learning, never stopping"
 <div align="center">
 
 > *"The more I learn, the more I realize how much I don't know."*
-> — Albert Einstein
+> — Albert Einstein<br>
+> *"Sometimes it is the people no one imagines anything of who do the things that no one can imagine. "*
+> — Alan Turing
 
 </div>
 
