@@ -100,9 +100,9 @@ mindset: "Always learning, never stopping"
 
 ### 🌐 Let's Connect & Collaborate!
 
-[![GitHub](https://img.shields.io/badge/GitHub-Iftakhar--822561-181717?style=for-the-badge&logo=github)](https://github.com/Iftakhar-822561)
+[![GitHub](https://img.shields.io/badge/GitHub-eftyqhar-181717?style=for-the-badge&logo=github)](https://github.com/Iftakhar-822561)
 
-![Profile Views](https://komarev.com/ghpvc/?username=Iftakhar-822561&style=for-the-badge&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?username=eftyqhar&style=for-the-badge&color=blue)
 
 ⭐ *Feel free to explore my repos and drop a star if you find something useful!*
 
